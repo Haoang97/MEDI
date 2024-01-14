@@ -29,6 +29,8 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 
 in your terminal (using the first GPU device).
 
+The pretrained checkpoints can be downloaded from https://github.com/google-research/simclr?tab=readme-ov-file and converted to Pytorch format with https://github.com/tonylins/simclr-converter.
+
 # Citation
 If you are using this code for your own researching, please consider citing
 
